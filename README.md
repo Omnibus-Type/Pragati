@@ -1,5 +1,5 @@
 # Pragati Narrow (Archivo Narrow-Devanagari)  
-###(*Release Candidate*)
+### (*Release Candidate*)
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
@@ -34,8 +34,8 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
 
-* **Latin** Hector Gatti
-* **Devanagari** Marcela Romero, Pablo Cosgaya and Nicolas Silva
+* **Latin** Héctor Gatti
+* **Devanagari** Marcela Romero, Pablo Cosgaya and Nicolás Silva
 
 ### License
 
@@ -193,7 +193,7 @@ This information should be distributed along with the Archivo fonts and any deri
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer of Latin version
@@ -203,7 +203,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer of Devanagari version
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Font Production/ Designer of Devanagari version
